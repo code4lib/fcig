@@ -296,64 +296,14 @@ In evaluating these options, it is worth noting that Options 2 and 3 are not mut
 
 This table gives only a broad comparison of the options. For fuller details on the points summarized below, please see the individual sections for each of the potential fiscal sponsors: LITA/ALA, CLIR/DLF, OLF, and DuraSpace, and the sections presenting the requirements involved in forming a non-profit organization option, as well as maintaining status quo.
 
-<table>
-  <tr>
-    <td>Option </td>
-    <td>Cost required to implement</td>
-    <td>Other costs/ recurring costs? </td>
-    <td>Any required changes to Code4Lib conference- planning process? </td>
-    <td>Any required changes to Code4Lib organizational structure?</td>
-    <td>Does this provide ongoing fiscal host for Code4Lib conference? </td>
-  </tr>
-  <tr>
-    <td>Fiscal sponsorship: LITA/ALA</td>
-    <td>26.4% of gross revenue</td>
-    <td></td>
-    <td>Coordination with LITA/ALA</td>
-    <td>Primary conference organizers would need to hold LITA membership; would need process to identify primary contact to LITA/ALA</td>
-    <td>yes</td>
-  </tr>
-  <tr>
-    <td>Fiscal sponsorship: CLIR/DLF</td>
-    <td>$5,000 / year</td>
-    <td>$5,000 / year to Code4Lib nest egg account</td>
-    <td>CLIR/DLF would not require changes; Code4Lib would need to continue hiring conference mgmt services. CLIR/DLF recommends event insurance.</td>
-    <td>Would need process to identify primary contact to CLIR/DLF</td>
-    <td>yes</td>
-  </tr>
-  <tr>
-    <td>Fiscal sponsorship:  Open Library Federation</td>
-    <td>To be determined, in coordination with OLF</td>
-    <td>Needs to be determined: whether OLF or C4L would cover event insurance cost annually</td>
-    <td>OLF did not specify any required changes to the conference planning process</td>
-    <td>OLF requires member communities to have explicit governance that is documented in a charter or similar instrument</td>
-    <td>yes</td>
-  </tr>
-  <tr>
-    <td>Fiscal sponsorship: DuraSpace</td>
-    <td>$7,000 / year</td>
-    <td>DuraSpace recommends C4L create & maintain a reserve account of $75Kto cover at minimum half of the cost of potential conference failure, and to purchase event insurance for annual conference</td>
-    <td>DuraSpace would not require changes, but strongly recommends C4L obtain event insurance for annual conference </td>
-    <td>DuraSpace requests C4L identify leadership with authorization: to sign Memorandum of Understanding (MOU), and to spend C4L funds; also expects C4L to report expenses and revenues annually</td>
-   <td>yes, with qualification regarding shared coverage of potential conference failure</td>
-  </tr>
-  <tr>
-    <td>Code4Lib forms NPO</td>
-    <td>$2,000 to $8,000 to form</td>
-    <td>$1,000 to $2,000 in filing fees</td>
-    <td>Potential need to secure legal services to review contracts.</td>
-    <td>Election of the board (or setting up board to include all Code4Lib members) and election of officers</td>
-    <td>yes </td>
-  </tr>
-  <tr>
-    <td>Maintain status quo</td>
-    <td>0</td>
-    <td>Ongoing liability burdens on host institutions</td>
-    <td>no</td>
-    <td>no</td>
-    <td>no</td>
-  </tr>
-</table>
+| Option | Cost required to implement | Other costs/ recurring costs?  | Any required changes to Code4Lib conference- planning process?  | Any required changes to Code4Lib organizational structure?  | Does this provide ongoing fiscal host for Code4Lib conference? |
+|-|-|-|-|-|-|
+| Fiscal sponsorship: LITA/ALA | 26.4% of gross revenue | | Coordination with LITA/ALA | Primary conference organizers would need to hold LITA membership; would need process to identify primary contact to LITA/ALA | yes |
+| Fiscal sponsorship: CLIR/DLF | $5,000 / year | $5,000 / year to Code4Lib nest egg account | CLIR/DLF would not require changes; Code4Lib would need to continue hiring conference mgmt services. CLIR/DLF recommends event insurance.  | Would need process to identify primary contact to CLIR/DLF | yes |
+| Fiscal sponsorship:  Open Library Federation | To be determined, in coordination with OLF | Needs to be determined: whether OLF or C4L would cover event insurance cost annually | OLF did not specify any required changes to the conference planning process | OLF requires member communities to have explicit governance that is documented in a charter or similar instrument | yes |
+| Fiscal sponsorship: DuraSpace | $7,000 / year | DuraSpace recommends C4L create & maintain a reserve account of $75Kto cover at minimum half of the cost of potential conference failure, and to purchase event insurance for annual conference | DuraSpace would not require changes, but strongly recommends C4L obtain event insurance for annual conference | DuraSpace requests C4L identify leadership with authorization: to sign Memorandum of Understanding (MOU), and to spend C4L funds; also expects C4L to report expenses and revenues annually | yes, with qualification regarding shared coverage of potential conference failure |
+| Code4Lib forms NPO | $2,000 to $8,000 to form | $1,000 to $2,000 in filing fees | Potential need to secure legal services to review contracts.  | Election of the board (or setting up board to include all Code4Lib members) and election of officers | yes |
+| Maintain status quo | 0 | Ongoing liability burdens on host institutions | no | no | no |
 
 
 ### Option 1: Maintain the status quo
