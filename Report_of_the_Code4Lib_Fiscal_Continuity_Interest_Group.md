@@ -1,6 +1,6 @@
 Code4Lib Fiscal Continuity Interest Group Report
 
-23 January 2017, updated on 11 September 2017
+23 January 2017, updated on 19 September 2017
 
 ## A. Executive Summary
 
