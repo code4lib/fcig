@@ -354,6 +354,8 @@ Finally, there is also no reason to expect that the cost of hosting a Code4Lib c
 
 ### Option 2: obtain ongoing fiscal sponsorship from an external organization
 
+In this Report, the terms specified for each of the organizations identified as possible fiscal sponsors provide an outline of the requirements and benefits of ongoing fiscal sponsorship with a host organization. This analysis is meant to inform a Code4Lib community vote among the three broad options presented in this Report (1: maintain status quo, 2: obtain ongoing fiscal sponsorship, or 3: form an independent non-profit organization), as well as to provide a basis for comparison between the possible terms offered by each of the organizations within Option 2. 
+
 ###### Pros: Possible Benefits of an Ongoing, Long-term fiscal sponsor for Code4Lib
 
 The motivation for securing an ongoing, long-term fiscal sponsor would be to try to address some of the limitations of status quo noted above, and to realize the following potential benefits:
